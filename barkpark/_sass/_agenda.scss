@@ -81,11 +81,9 @@ header {
 
 #calendar .days li:hover {
   background: #d3d3d3;
-          -webkit-transform: scale(1.1);
-        -ms-transform: scale(1.1);
-        transform: scale(1.1);
+
         cursor:pointer;
-        border-radius: 10px;
+
 }
 
 #calendar .date {
